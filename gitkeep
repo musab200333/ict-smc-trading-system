@@ -1,0 +1,11 @@
+ict-smc-trading-system/
+│
+├── README.md                 # Documentation
+├── requirements.txt          # Dependencies
+├── trading_system.py         # Main trading system
+├── config.py                 # Configuration settings
+├── backtest.py              # Backtesting engine
+├── live_trading.py          # Live trading (optional)
+├── dashboard.py             # Web dashboard
+└── data/                    # Data folder
+    └── .gitkeep
