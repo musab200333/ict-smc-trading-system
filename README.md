@@ -1,0 +1,1 @@
+# ict-smc-trading-system
